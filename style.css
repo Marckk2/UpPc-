@@ -1,0 +1,13 @@
+body{
+    background-color: darkgray;
+}
+
+.formu{
+    color: white;
+    margin: auto;
+}
+.formu input{
+    color: aqua;
+    border-top: 20px;
+    border-color: blueviolet;
+}
